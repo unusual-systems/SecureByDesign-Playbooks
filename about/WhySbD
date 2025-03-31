@@ -1,0 +1,15 @@
+# Secure By Design vs Accreditation
+
+Why – SbD vs accreditation, business risk vs technical experts arguing, freedom to change within the business
+
+“End” state is a set of intermittetntly reviewed risks in the project risk register that are given in business terms.
+
+Temptation is to have checklists – cyber essentials, etc – lists of vulnerabilitie/controlss. OK for some readymade networks. Part of the playbook. Suitable eg for my business. 
+
+Checklists are essentially compliant or not, and there’s no real way of trading the cost of complying with the risk of not complying it’s largely yes/no done/not done, permission to go or not.
+
+# What SbD is and isn’t
+
+SbD is an aspiration mostly – to get to the above.
+
+Needs a framework.  We had a  look at a few and then based ours on NIST CSF now at v2.0, but this too is only a framework, needs an implementation. ISO 27001, CORBIT for controls, etc. We chose NIST’s SP 800.53 & 30 – Risk Management guides, mashed those with some MoD spreadsheets and created a way of calculating mechanically the various 
